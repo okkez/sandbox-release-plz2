@@ -1,7 +1,8 @@
 [workspace]
 publish = false
+pr_labels = ["release"]
 
 [[package]]
-name = "sandobx-release-plz2"
+name = "sandbox-release-plz2"
 publish = false
 
