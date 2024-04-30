@@ -1,3 +1,7 @@
 [workspace]
 publish = false
 
+[[package]]
+name = "sandobx-release-plz2"
+publish = false
+
